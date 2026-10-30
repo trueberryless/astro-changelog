@@ -41,7 +41,7 @@
   "homepage": "https://astro-changelog.netlify.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trueberryless-org/astro-changelog.git"
+    "url": "git+https://github.com/trueberryless/astro-changelog.git"
   },
-  "bugs": "https://github.com/trueberryless-org/astro-changelog/issues"
+  "bugs": "https://github.com/trueberryless/astro-changelog/issues"
 }
